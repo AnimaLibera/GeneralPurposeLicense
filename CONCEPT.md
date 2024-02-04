@@ -1,4 +1,4 @@
-# General Business License
+# General Purpose License
 
 ## Core Legal Terms
 
