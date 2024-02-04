@@ -1,6 +1,6 @@
 # General Business License
 
-## Core Legal Terms**
+## Core Legal Terms
 
 ### Knowledgesharing 🌊 
 In the Case the Licensee develops **new Features or Benefits** for the Software, or derived Software or Services, he shares his Knowledge with the Licenser and frees the Licenser from Intellectual Property Protection.
