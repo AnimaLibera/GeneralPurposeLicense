@@ -1,1 +1,1 @@
-Publisch the Concept for an General Business License for Feedback
+Publisch the Concept for an General Purpose License for Feedback
