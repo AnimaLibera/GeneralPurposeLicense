@@ -1,0 +1,30 @@
+.Quality
+{
+	color:blue;
+	font-weight:bold;
+}
+
+.Activity
+{
+	color:red;
+	font-weight:bold;
+}
+
+.Quantity
+{
+	color:green;
+	font-weight:bold;
+}
+
+.Helping
+{
+	color:orange;
+	font-weight:bold;
+}
+
+.Notes
+{
+	color:purple;
+	<--font-weight:bold;-->
+	font-size:80%;
+}
