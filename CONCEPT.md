@@ -14,7 +14,7 @@ In the Case of **Commercialization** of the Software, or derived Software or Ser
 ## Complementary Legal Terms
 
 ### Permission
-The Licenser gives the Right to the Licensee to **run**, **modify** and **copy** the Software.
+The Licenser gives the Right to the Licensee to **run**, **modify**, **copy** and **study** the Software.
 
 ### Riskwarning  
 All on your own sole Risk.
