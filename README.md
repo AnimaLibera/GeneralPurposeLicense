@@ -1,5 +1,13 @@
 # General Purpose License
 
+## Contract Parties
+
+### Licenser
+Licenser is that Party with hast the literary Property of the Software.
+
+### Licensee
+Licensee is that Party with uses the Rights provided for the Software via this License.
+
 ## Core Legal Terms
 
 ### Knowledgesharing 🌊 
@@ -12,6 +20,9 @@ In the Case of **Marketing** the Software, or derived Software or Services, the 
 In the Case of **Commercialization** of the Software, or derived Software or Services, the Licensee shares 50 Basispoints of his Profit with the Licenser.
 
 ## Complementary Legal Terms
+
+### Software
+Software under this License is that Software with is distributed with this License.
 
 ### Permission
 The Licenser gives the Right to the Licensee to **run**, **modify**, **copy** and **study** the Software.
