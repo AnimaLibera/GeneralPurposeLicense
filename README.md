@@ -56,8 +56,10 @@ Terms with are legaly invalid should be replaced by legaly valid Terms with are 
 
 ## Ethical Terms
 
-### Especially Purpose  
+### Especially Purpose
+#### Software
 The Especially Purpose of this Software is **Education**, **Security** and **Amusement**.
+#### License
 The Especially Purpose of this License is **Innovation**, **Good Standing** and **Making a Living**.
 
 ### Moral Suasion  
