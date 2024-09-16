@@ -54,6 +54,12 @@ The Ethical Terms are not legaly Binding.
 ### Survival 
 Terms with are legaly invalid should be replaced by legaly valid Terms with are essential Close.
 
+### Jurisdiction
+Jurisdiction should be the Law of the Federal Republic of Germany.
+
+### Legal Battle
+Legal Venue should be the ordinary Courts in rising Order: Bremen -> Germany -> European Union
+
 ## Ethical Terms
 
 ### Especially Purpose
@@ -61,6 +67,12 @@ Terms with are legaly invalid should be replaced by legaly valid Terms with are 
 The Especially Purpose of this Software is **Education**, **Security** and **Amusement**.
 #### License
 The Especially Purpose of this License is **Innovation**, **Good Standing** and **Making a Living**.
+
+### Code of Conflict
+Conflicts should be resolved by following Order:
+#1 Negotiation 🌊
+#2 Mediation 🔥
+#3 Ordinary Court 🌳
 
 ### Moral Suasion  
 Don't misuse the License or Software.
