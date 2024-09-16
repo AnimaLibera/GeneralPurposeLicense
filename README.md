@@ -69,10 +69,10 @@ The Especially Purpose of this Software is **Education**, **Security** and **Amu
 The Especially Purpose of this License is **Innovation**, **Good Standing** and **Making a Living**.
 
 ### Code of Conflict
-Conflicts should be resolved by following Order:
-#1 Negotiation 🌊
-#2 Mediation 🔥
-#3 Ordinary Court 🌳
+Conflicts should be resolved by following Order:  
+#1 Negotiation 🌊  
+#2 Mediation 🔥  
+#3 Ordinary Court 🌳  
 
 ### Moral Suasion  
 Don't misuse the License or Software.
