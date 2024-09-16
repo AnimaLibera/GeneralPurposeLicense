@@ -11,13 +11,13 @@ Licensee is that Party with uses the Rights provided for the Software via this L
 ## Core Legal Terms
 
 ### Knowledgesharing 🌊 
-In the Case the Licensee develops **new Features or Benefits** for the Software, or derived Software or Services, he shares his Knowledge with the Licenser and frees the Licenser from Intellectual Property Protection.
+In the Case the Licensee develops **new Features or Benefits** for the Software, or material derived Software or Services, he shares his Knowledge with the Licenser and frees the Licenser from Intellectual Property Protection.
 
 ### Brandingsharing 🔥 
-In the Case of **Marketing** the Software, or derived Software or Services, the Licensee shares his Brandingpower with the Licenser.
+In the Case of **Marketing** the Software, or material derived Software or Services, the Licensee shares his Brandingpower with the Licenser.
 
 ### Profitsharing 🌳  
-In the Case of **Commercialization** of the Software, or derived Software or Services, the Licensee shares 50 Basispoints of his Profit with the Licenser.
+In the Case of **Commercialization** of the Software, or material derived Software or Services, the Licensee shares 50 Basispoints of his Profit with the Licenser.
 
 ## Complementary Legal Terms
 
@@ -58,6 +58,7 @@ Terms with are legaly invalid should be replaced by legaly valid Terms with are 
 
 ### Especially Purpose  
 The Especially Purpose of this Software is **Education**, **Security** and **Amusement**.
+The Especially Purpose of this License is **Innovation**, **Good Standing** and **Making a Living**.
 
 ### Moral Suasion  
 Don't misuse the License or Software.
