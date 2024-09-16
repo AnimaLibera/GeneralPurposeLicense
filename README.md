@@ -54,6 +54,9 @@ The Ethical Terms are not legaly Binding.
 ### Survival 
 Terms with are legaly invalid should be replaced by legaly valid Terms with are essential Close.
 
+### Termination
+The License terminate automaticaly when the Licensee stops using the Rights permitted by this License.
+
 ### Jurisdiction
 Jurisdiction should be the Law of the Federal Republic of Germany.
 
