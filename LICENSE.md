@@ -1,1 +1,1 @@
-Read only Policy
+Read and Copy Policy
