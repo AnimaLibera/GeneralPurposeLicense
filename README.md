@@ -13,7 +13,7 @@ Licensee is that Party with uses the Rights provided for the Software via this L
 ### Knowledgesharing 🌊 
 In the Case the Licensee develops **new Features or Benefits** for the Software, or derived Software or Services, he shares his Knowledge with the Licenser and frees the Licenser from Intellectual Property Protection.
 
-### Brandingsharing 🔥 
+### Brandingsharing 🔥
 In the Case of **Marketing** the Software, or derived Software or Services, the Licensee shares his Brandingpower with the Licenser.
 
 ### Profitsharing 🌳  
@@ -56,7 +56,7 @@ Terms with are legaly invalid should be replaced by legaly valid Terms with are 
 
 ## Ethical Terms
 
-### Especially Purpose  
+### Especially Purpose
 The Especially Purpose of this Software is **Education**, **Security** and **Amusement**.
 
 ### Moral Suasion  
