@@ -1,0 +1,67 @@
+Title: General Purpose License
+Term:
+  - Title: Contract Parties
+    Term:
+    - Title: Licenser
+      Term: Licenser is that Party with hast the literary Property of the Software.
+    - Title: Licensee
+      Term: Licensee is that Party with uses the Rights provided for the Software via this License.
+  - Title: Core Legal Terms
+    Term:
+    - Title: Knowledgesharing 🌊
+      Term: In the Case the Licensee develops new Features or Benefits for the Software, or derived Software or Services, he shares his Knowledge with the Licenser and frees the Licenser from Intellectual Property Protection.
+      Quality: 
+      - new Features or Benefits
+    - Title: Brandingsharing 🔥
+      Term: In the Case of Marketing the Software, or derived Software or Services, the Licensee shares his Brandingpower with the Licenser.
+      Activity:
+      - Marketing
+    - Title: Profitsharing 🌳
+      Term: In the Case of Commercialization of the Software, or derived Software or Services, the Licensee shares 50 Basispoints of his Profit with the Licenser.
+      Quantity:
+      - Commercialization
+  - Title: Complementary Legal Terms
+    Term:
+    - Title: Software
+      Term: Software under this License is that Software with is distributed with this License.
+    - Title: Permission
+      Term: The Licenser gives the Right to the Licensee to run, modify, copy and study the Software.
+      Bold:
+      - run
+      - modify
+      - copy
+      - study
+    - Title: Riskwarning
+      Term: All on your own sole Risk.
+    - Title: Pro Rata
+      Term: The Cost for this License can be shared, pro Rata, with the Cost for similar Licenses for Software.
+    - Title: Credit
+      Term: The first 25 € p.a. or similar Amount and Currency should be waived.
+    - Title: Exclusivity
+      Term: The License is non-exclusive.
+    - Title: Profit
+      Term: Profit means EBITA.
+    - Title: Duration
+      Term: The License is on the run until Recall at Will.
+    - Title: Binding
+      Term: The Ethical Terms are not legaly Binding.
+    - Title: Survival
+      Term: Terms with are legaly invalid should be replaced by legaly valid Terms with are essential Close.
+    - Title: Termination
+      Term: The License terminate automaticaly when the Licensee stops using and wanting the Rights permitted by this License.
+    - Title: Jurisdiction
+      Term: Jurisdiction should be the Law of the Federal Republic of Germany.
+    - Title: Legal Battle
+      Term: "Legal Venue should be the ordinary Courts in rising Order: Bremen -> Germany -> European Union"
+  - Title: Ethical Terms
+    Term:
+    - Title: Especially Purpose
+      Term: The Especially Purpose of this Software is Education, Security and Amusement.
+      Quality: 
+      - Education
+      Activity:
+      - Security
+      Quantity:
+      - Amusement
+    - Title: Moral Suasion
+      Term: Don't misuse the License or Software.
