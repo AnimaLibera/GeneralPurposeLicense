@@ -1,6 +1,6 @@
 # General Purpose License
 
-## Contract Parties
+## License Parties
 
 ### Licenser
 Licenser is that Party with hast the literary Property of the Software.
@@ -42,11 +42,8 @@ The License is non-exclusive.
 ### Profit
 Profit means EBITA.
 
-### Duration 
-The License is from first Release of the Software on the Run for three Years.
-
-### Extension  
-With new Releases the Runtime can be extended.
+### Duration
+The License is on the run until Recall at Will.
 
 ### Binding  
 The Ethical Terms are not legaly Binding.
