@@ -56,12 +56,28 @@ Term:
   - Title: Ethical Terms
     Term:
     - Title: Especially Purpose
-      Term: The Especially Purpose of this Software is Education, Security and Amusement.
-      Quality: 
-      - Education
-      Activity:
-      - Security
-      Quantity:
-      - Amusement
+      Term: 
+        - Title: Software
+          Term: The Especially Purpose of this Software is Education, Security and Amusement.
+          Quality: 
+          - Education
+          Activity:
+          - Security
+          Quantity:
+          - Amusement
+        - Title: License
+          Term: The Especially Purpose of this License is Innovation, Good Standing and Making a Living.
+          Quality: 
+          - Innovation
+          Activity:
+          - Good Standing
+          Quantity:
+          - Making a Living
+    - Title: Code of Conflict
+      Term: "Conflicts should be resolved by following Order:"
+      ListTerm:
+        - "#1 Negotiation 🌊"
+        - "#2 Mediation 🔥"
+        - "#3 Ordinary Court 🌳"
     - Title: Moral Suasion
       Term: Don't misuse the License or Software.
