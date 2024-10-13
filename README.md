@@ -13,13 +13,11 @@ Licensee is that Party with uses the Rights provided for the Software via this L
 ### Knowledgesharing 🌊 
 In the Case the Licensee develops **new Features or Benefits** for the Software, or material derived Software or Services, he shares his Knowledge with the Licenser and frees the Licenser from Intellectual Property Protection.
 
-<<<<<<< HEAD
 ### Brandingsharing 🔥
 In the Case of **Marketing** the Software, or derived Software or Services, the Licensee shares his Brandingpower with the Licenser.
-=======
+
 ### Brandingsharing 🔥 
 In the Case of **Marketing** the Software, or material derived Software or Services, the Licensee shares his Brandingpower with the Licenser.
->>>>>>> 806a2449d4d14c11c5006549515ccb8262bf541a
 
 ### Profitsharing 🌳  
 In the Case of **Commercialization** of the Software, or material derived Software or Services, the Licensee shares 50 Basispoints of his Profit with the Licenser.
@@ -68,10 +66,7 @@ Legal Venue should be the ordinary Courts in rising Order: Bremen -> Germany -> 
 ## Ethical Terms
 
 ### Especially Purpose
-<<<<<<< HEAD
-=======
 #### Software
->>>>>>> 806a2449d4d14c11c5006549515ccb8262bf541a
 The Especially Purpose of this Software is **Education**, **Security** and **Amusement**.
 #### License
 The Especially Purpose of this License is **Innovation**, **Good Standing** and **Making a Living**.
