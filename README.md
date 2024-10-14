@@ -13,9 +13,6 @@ Licensee is that Party with uses the Rights provided for the Software via this L
 ### Knowledgesharing 🌊 
 In the Case the Licensee develops **new Features or Benefits** for the Software, or material derived Software or Services, he shares his Knowledge with the Licenser and frees the Licenser from Intellectual Property Protection.
 
-### Brandingsharing 🔥
-In the Case of **Marketing** the Software, or derived Software or Services, the Licensee shares his Brandingpower with the Licenser.
-
 ### Brandingsharing 🔥 
 In the Case of **Marketing** the Software, or material derived Software or Services, the Licensee shares his Brandingpower with the Licenser.
 
