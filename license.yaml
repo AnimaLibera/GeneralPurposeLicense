@@ -8,6 +8,23 @@ Term:
       Term: Licensee is that Party with uses the Rights provided for the Software via this License.
   - Title: Core Legal Terms
     Term:
+    - Title: Software
+      Term: Software under this License is that Software with is distributed with this License.
+    - Title: Permission
+      Term: The Licenser gives the Right to the Licensee to run, modify, copy and study the Software.
+      Bold:
+      - run
+      - modify
+      - copy
+      - study
+    - Title: Optionality
+      Term: The Licenser has the Right and Duty to only fulfill one or more of Optional Legal Terms.
+      Bold:
+      - Right
+      - and
+      - Duty
+  - Title: Optional Legal Terms
+    Term:
     - Title: Knowledgesharing 🌊
       Term: In the Case the Licensee develops new Features or Benefits for the Software, or derived Software or Services, he shares his Knowledge with the Licenser and frees the Licenser from Intellectual Property Protection.
       Quality: 
@@ -21,16 +38,6 @@ Term:
       Quantity:
       - Commercialization
   - Title: Complementary Legal Terms
-    Term:
-    - Title: Software
-      Term: Software under this License is that Software with is distributed with this License.
-    - Title: Permission
-      Term: The Licenser gives the Right to the Licensee to run, modify, copy and study the Software.
-      Bold:
-      - run
-      - modify
-      - copy
-      - study
     - Title: Riskwarning
       Term: All on your own sole Risk.
     - Title: Pro Rata
