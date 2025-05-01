@@ -10,6 +10,17 @@ Licensee is that Party with uses the Rights provided for the Software via this L
 
 ## Core Legal Terms
 
+### Software
+Software under this License is that Software with is distributed with this License.
+
+### Permission
+The Licenser gives the Right to the Licensee to **run**, **modify**, **copy** and **study** the Software.
+
+### Optionality
+The Licenser has the **Right and Duty** to only fulfill one or more of Optional Legal Terms.  
+
+## Optional Legal Terms
+
 ### Knowledgesharing 🌊 
 In the Case the Licensee develops **new Features or Benefits** for the Software, or material derived Software or Services, he shares his Knowledge with the Licenser and frees the Licenser from Intellectual Property Protection.
 
@@ -20,12 +31,6 @@ In the Case of **Marketing** the Software, or material derived Software or Servi
 In the Case of **Commercialization** of the Software, or material derived Software or Services, the Licensee shares 50 Basispoints of his Profit with the Licenser.
 
 ## Complementary Legal Terms
-
-### Software
-Software under this License is that Software with is distributed with this License.
-
-### Permission
-The Licenser gives the Right to the Licensee to **run**, **modify**, **copy** and **study** the Software.
 
 ### Riskwarning  
 All on your own sole Risk.
