@@ -14,12 +14,11 @@ Licensee is that Party with uses the Rights provided for the Software via this L
 Software under this License is that Software with is distributed with this License.
 
 ### Permission
-The Licenser gives the Right to the Licensee to **run**, **modify**, **copy** and **study** the Software.
+The Licenser gives the Right to the Licensee to **run**, **modify**, **copy** and **study** the Software. 
 
-### Optionality
-The Licenser has the **Right and Duty** to only fulfill one or more of Optional Legal Terms.  
+## Gratitude Legal Terms
 
-## Optional Legal Terms
+The Licensee hast the **Right but not the Duty** to fulfill one or more of the below Terms to show his Gratitude.
 
 ### Knowledgesharing 🌊 
 In the Case the Licensee develops **new Features or Benefits** for the Software, or material derived Software or Services, he shares his Knowledge with the Licenser and frees the Licenser from Intellectual Property Protection.
