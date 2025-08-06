@@ -1,7 +1,7 @@
 # Introduction 📝
 
 # Definitions
-##Software
+## Software
 ## Source Code
 Human-Readable programming Instuctions
 ## Binary
@@ -67,11 +67,11 @@ Enforeable
 # Compensation 
 The Idea is that between the Partys there is a Tit for Tat Situation.
 ## Knowledgesharing 🌊 
-(For Fun)
+- For Fun
 ## Brandsharing 🔥
-(For Credit)
+- For Credit
 ## Profitsharing 🌳
-(For Profit)
+- For Profit
 
 # Licensing
 ## Non-Exclusivity
