@@ -79,3 +79,8 @@ The Idea is that between the Partys there is a Tit for Tat Situation.
 ## Dualliscensing
 ## Compatibility ✉️
 Versioning for the License.
+
+# Rationale
+## Understanding
+## Principle
+## Purpose
