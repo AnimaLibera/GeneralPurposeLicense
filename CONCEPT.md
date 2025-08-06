@@ -1,21 +1,5 @@
 # General Purpose License (New Concepts)
 
-# Ethical Terms
-
-## Understanding
-The Author(s) of this Software belief that Software has a financial, legal and technical Basis and to neglect them would be carless.
-
-### Financial Basis 🌊
-As financial Basis the Author(s) understand the Voluntary Exchane of Value.
-
-### Legal Basis 🔥
-As legal Basis the Author(s) understand a shared Rulebook.
-
-### Technical Basis 🌳
-As technical Basis Author(s) understand the Source Code.
-
-# Legal Terms
-
 ## Permission
 The Licenser gives the Right to the Licensee to **study**, **run**, **modify** and **copy** the Software.
 
