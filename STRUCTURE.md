@@ -33,7 +33,7 @@ Keep other Party Cost low!
 # Code of Conflict ✉️ 
 # Jurisdiciton
 Worldwide, excluding Countrys with no supportive legal Framework.
-#Binding
+# Binding
 ## General Terms 📝
 Non-Binding
 Non-Enforceable
