@@ -3,7 +3,7 @@
 # Definitions
 ## Software
 ## Source Code
-Human-Readable programming Instuctions
+Human-Readable programming Instructions
 ## Binary
 Machine-Readable execution Instructions
 ## Documentation
